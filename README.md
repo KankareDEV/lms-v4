@@ -7,7 +7,7 @@ It demonstrates core LMS features such as course management, announcements, mate
 
 ## 🌐 Live Demo
 
-👉 lms-v4-git-main-markus-kankares-projects.vercel.app
+👉 lms-v4-git-main-markus-kankares-projects.vercel.app (Copy this and paste it to Google browser). 
 
 ---
 
@@ -30,10 +30,10 @@ You can log in with the following test accounts:
 
 ## ✨ Features
 
-- **Course Management** – Teachers can create courses, upload materials, and schedule classes.  
-- **Exams & Coursework** – Students submit coursework; teachers approve and unlock exams.  
-- **Announcements** – Teachers can send quick reminders or updates to students.  
-- **AI-Assisted Grading** – Uses OpenAI API for automatic essay evaluation and feedback.  
+- Teachers can create courses, upload materials, and schedule classes.  
+- Students submit coursework; teachers approve and unlock exams.  
+- Teachers can send quick reminders or updates to students.  
+- Uses OpenAI API for automatic essay evaluation and feedback.  
 
 ---
 
@@ -45,8 +45,16 @@ When creating essay-type questions, the following **scoring weights** improve AI
 - **Clarity**: `0.25`  
 - **Accuracy**: `0.15`  
 
-This weighting helps ensure answers are comprehensive, clear, and factually correct.
+This helps to ensure that the AI answer is less stright for the student.
 
 ---
+
+## 📸 Screenshots
+
+### Login Page
+![Login Page](./docs/login.png)
+
+### Teacher Dashboard
+![Teacher Dashboard]( <img width="697" height="664" alt="Screenshot 2025-09-14 at 18 17 28" src="https://github.com/user-attachments/assets/360248f4-ca58-4df8-9d94-d022e478117f" />)
 
 
