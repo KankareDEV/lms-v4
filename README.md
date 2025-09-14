@@ -7,7 +7,7 @@ It demonstrates core LMS features such as course management, announcements, mate
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the deployed app](lms-v4-git-main-markus-kankares-projects.vercel.app)
+👉 lms-v4-git-main-markus-kankares-projects.vercel.app
 
 ---
 
