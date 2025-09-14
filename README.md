@@ -52,9 +52,12 @@ This helps to ensure that the AI answer is less stright for the student.
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](./docs/login.png)
+![Login Page](https://github.com/user-attachments/assets/569fcb66-bda6-4df3-bc7f-dd41d6b866f3)
 
 ### Teacher Dashboard
-![Teacher Dashboard]( <img width="697" height="664" alt="Screenshot 2025-09-14 at 18 17 28" src="https://github.com/user-attachments/assets/360248f4-ca58-4df8-9d94-d022e478117f" />)
+![Teacher Dashboard](https://github.com/user-attachments/assets/360248f4-ca58-4df8-9d94-d022e478117f)
+
+### Student Dashboard
+![Student Dashboard](https://github.com/user-attachments/assets/e6abdb2c-b16a-4102-b2d2-09a528a05938)
 
 
