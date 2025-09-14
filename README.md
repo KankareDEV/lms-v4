@@ -13,7 +13,7 @@ It demonstrates core LMS features such as course management, announcements, mate
 
 ## 🔑 Demo Credentials
 
-You can log in with the following test accounts:
+You can log in with the following test accounts (you can't login using teacher credentials in student portal and vice versa):
 
 ### 👩‍🎓 Students
 - `juliet.wang@student-nordwest-bs.de`  
