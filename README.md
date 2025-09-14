@@ -7,7 +7,7 @@ It demonstrates core LMS features such as course management, announcements, mate
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the deployed app](https://lms-v4-gamma.vercel.app/login)
+👉 [Click here to try the deployed app](lms-v4-git-main-markus-kankares-projects.vercel.app)
 
 ---
 
@@ -49,9 +49,4 @@ This weighting helps ensure answers are comprehensive, clear, and factually corr
 
 ---
 
-## 🌐 Deployment
 
-The project is deployed on **Vercel**.
-
-- **Firebase API keys** (safe for frontend) are stored in `.env` using `VITE_FIREBASE_...`.  
-- **OpenAI API key** (secret) is stored in **Vercel Environment Variables**:
