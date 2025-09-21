@@ -39,7 +39,7 @@ The **password for all accounts** is: 1234567
 
 ## AI Question Guidance
 
-When creating essay-type questions, the following **scoring weights** improve AI evaluation:
+When creating essay-type questions, the following **scoring weights** will improve AI evaluation:
 
 - **Coverage**: `0.6`  
 - **Clarity**: `0.25`  
