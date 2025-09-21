@@ -5,30 +5,30 @@ It demonstrates core LMS features such as course management, announcements, mate
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 (https://lms-v4-pjvh5p5mn-markus-kankares-projects.vercel.app?_vercel_share=OyfvsGIUu8Gu1k3QJLwrMVNlwoeCyaak) (Copy this and paste it to Google browser). 
+ (https://lms-v4-pjvh5p5mn-markus-kankares-projects.vercel.app?_vercel_share=OyfvsGIUu8Gu1k3QJLwrMVNlwoeCyaak) (Copy this and paste it to Google browser). 
 
 ---
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 You can log in with the following test accounts (you can't login using teacher credentials in student portal and vice versa):
 
-### 👩‍🎓 Students
+### Students
 - `juliet.wang@student-nordwest-bs.de`  
 - `john.wagner@student-nordwest-bs.de`  
 - `sofia.wagner@student-nordwest-bs.de`  
 
-### 👩‍🏫 Teacher
+### Teacher
 - `milana.schmidt@nordwest-bs.de`
 
-👉 The **password for all accounts** is: 1234567
+The **password for all accounts** is: 1234567
 
 
 ---
 
-## ✨ Features
+## Features
 
 - Teachers can create courses, upload materials, and schedule classes.  
 - Students submit coursework; teachers approve and unlock exams.  
@@ -37,7 +37,7 @@ You can log in with the following test accounts (you can't login using teacher c
 
 ---
 
-## 🤖 AI Question Guidance
+## AI Question Guidance
 
 When creating essay-type questions, the following **scoring weights** improve AI evaluation:
 
@@ -49,7 +49,7 @@ This helps to ensure that the AI answer is less stright for the student.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Login Page
 ![Login Page](https://github.com/user-attachments/assets/569fcb66-bda6-4df3-bc7f-dd41d6b866f3)
